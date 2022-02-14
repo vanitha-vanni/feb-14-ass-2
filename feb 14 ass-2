@@ -1,0 +1,9 @@
+a=int(input('Enter a value:'))
+count=0
+while(a>0):
+    count=count+1
+    n=n//10
+print("The no of digits in the number are:",count)
+output:
+Enter number:678
+The number of digits in the number are: 3
